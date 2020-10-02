@@ -50,7 +50,7 @@ ggplot(val, aes(dep_time, dep_delay, colour=carrier))+geom_point()
 ggplot(val, aes(dep_time, dep_delay, colour=carrier))+geom_point()+facet_grid(~origin)
 
 #now lets add labels and stuff
-ggplot(val, aes(dep_time, dep_delay, colour=carrier))+geom_point()+facet_grid(~origin)+
+ggplot(val, aes(dep_time, dep_delay, colour=carrier, shape=carrier))+geom_point()+facet_grid(~origin)+
   ggtitle("Departures and Delays around NYC", "or why is JFK a mess?")+xlab("When did the flight take off?")+ylab("How long did you sit?")
 
 #do you like to party? Let's expand beyond Valentine's Day...
@@ -87,7 +87,7 @@ ggplot(flights, aes(carrier, dep_delay))+geom_boxplot()
 ggplot(TV, aes(Year, Rating, colour=Type))+geom_jitter()
 
 #what could tell the story by type with beauty by network?
-ggplot(TV, aes(Year, Rating, colour=X))+geom_jitter()+facet_grid(~Y)
+ggplot(TV, aes(Year, Rating, colour=Network))+geom_jitter()+facet_grid(~Type)
 
 #another powerful graphic
 ggplot(TV, aes(Network, Rating))+geom_boxplot()
