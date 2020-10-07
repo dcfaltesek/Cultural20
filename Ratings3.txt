@@ -1,0 +1,1343 @@
+Rank	Program	Network	Rating	Year						
+17	Dharma & Greg	ABC	10.5	1999						
+3	Roseanne	ABC	18.1	1990						
+8	America's Funniest Home Videos	ABC	16.7	1990						
+9	Monday Night Football	ABC	16.6	1990						
+13	America's Funniest People	ABC	16.3	1990						
+14	Full House	ABC	15.9	1990						
+15	Family Matters	ABC	15.8	1990						
+18	Coach	ABC	15.3	1990						
+19	Who's the Boss?	ABC	15	1990						
+24	"Doogie Howser, M.D."	ABC	14.7	1990						
+26	Head of the Class	ABC	14.5	1990						
+27	Growing Pains	ABC	14.3	1990						
+27	Baby Talk	ABC	14.3	1990						
+27	Davis Rules	ABC	14.3	1990						
+30	The Wonder Years	ABC	14.2	1990						
+2	Roseanne	ABC	19.9	1991						
+4	Home Improvement	ABC	17.5	1991						
+7	Full House	ABC	17	1991						
+10	Coach	ABC	16.7	1991						
+10	Room for Two	ABC	16.7	1991						
+12	Monday Night Football	ABC	16.6	1991						
+20	America's Funniest Home Videos	ABC	14.5	1991						
+21	20/20	ABC	14.4	1991						
+25	America's Funniest People	ABC	13.8	1991						
+2	Roseanne	ABC	20.7	1992						
+3	Home Improvement	ABC	19.4	1992						
+6	Coach	ABC	17.5	1992						
+7	Monday Night Football	ABC	16.7	1992						
+10	Full House	ABC	15.8	1992						
+12	20/20	ABC	15.1	1992						
+16	Hanging' with Mr. Cooper	ABC	14.6	1992						
+22	Primetime Live	ABC	14.1	1992						
+28	ABC Sunday Night Movie	ABC	13.3	1992						
+28	Matlock	ABC	13.3	1992						
+2	Home Improvement	ABC	20.4	1993						
+4	Roseanne	ABC	19.1	1993						
+5	Grace Under Fire	ABC	17.7	1993						
+6	Coach	ABC	17.4	1993						
+8	Monday Night Football	ABC	16.5	1993						
+12	Thunder Alley	ABC	15.9	1993						
+15	20/20	ABC	14.3	1993						
+16	Full House	ABC	14.2	1993						
+17	Primetime Live	ABC	14	1993						
+18	NYPD Blue	ABC	13.9	1993						
+20	Turning Point	ABC	13.8	1993						
+27	Phenom	ABC	13.2	1993						
+30	ABC Sunday Night Movie	ABC	12.6	1993						
+30	Family Matters	ABC	12.6	1993						
+3	Home Improvement	ABC	19.5	1994						
+4	Grace Under Fire	ABC	18.6	1994						
+5	Monday Night Football	ABC	17.7	1994						
+7	NYPD Blue	ABC	16.5	1994						
+10	Roseanne	ABC	15.5	1994						
+13	Ellen	ABC	14.8	1994						
+17	20/20	ABC	14	1994						
+20	Me and the Boys	ABC	13.1	1994						
+23	ABC Sunday Movie	ABC	12.7	1994						
+25	Full House	ABC	12.4	1994						
+29	ABC Monday Night Movie	ABC	11.7	1994						
+29	Primetime Live	ABC	11.7	1994						
+5	Monday Night Football	ABC	17.1	1995						
+7	Home Improvement	ABC	16.1	1995						
+10	NYPD Blue	ABC	14.1	1995						
+11	20/20	ABC	13.6	1995						
+13	Grace Under Fire	ABC	13.2	1995						
+14	Coach	ABC	12.9	1995						
+16	Roseanne	ABC	12.5	1995						
+18	Primetime Live	ABC	12.3	1995						
+24	The Naked Truth	ABC	11.4	1995						
+30	The Dana Carvey Show	ABC	11.2	1995						
+7	Monday Night Football	ABC	16	1996						
+9	Home Improvement	ABC	14	1996						
+12	20/20	ABC	12.8	1996						
+13	NYPD Blue	ABC	12.5	1996						
+15	Primetime Live	ABC	11.9	1996						
+17	Spin City	ABC	11.7	1996						
+18	The Drew Carey Show	ABC	11.5	1996						
+29	Ellen	ABC	10.6	1996						
+5	Monday Night Football	ABC	15	1997						
+10	Home Improvement	ABC	12	1997						
+15	The Drew Carey Show	ABC	11.1	1997						
+16	20/20 - Friday	ABC	10.9	1997						
+17	NYPD Blue	ABC	10.8	1997						
+17	Primetime Live	ABC	10.8	1997						
+21	20/20 - Monday	ABC	10	1997						
+25	Dharma & Greg	ABC	9.5	1997						
+28	Hiller and Diller	ABC	9.3	1997						
+4	Monday Night Football	ABC	14.9	1998						
+10	Home Improvement	ABC	11	1998						
+12	NYPD Blue	ABC	10.5	1998						
+14	The Drew Carey Show	ABC	9.9	1998						
+16	20/20 - Wednesday	ABC	9.8	1998						
+24	Dharma & Greg	ABC	9.3	1998						
+25	Spin City	ABC	9.2	1998						
+1	Who Wants to Be a Millionaire - Tuesday	ABC	18.6	1999						
+2	Who Wants to Be a Millionaire - Thursday	ABC	17.5	1999						
+3	Who Wants to Be a Millionaire - Sunday	ABC	17.1	1999						
+7	Monday Night Football	ABC	13.5	1999						
+9	The Practice	ABC	11.8	1999						
+15	NYPD Blue	ABC	10.7	1999						
+21	The Drew Carey Show	ABC	9.5	1999						
+24	ABC Monday Movie	ABC	9.1	1999						
+3	Who Wants to Be a Millionaire - Wednesday	ABC	13.7	2000						
+4	Who Wants to Be a Millionaire - Tuesday	ABC	13	2000						
+5	Monday Night Football	ABC	12.6	2000						
+8	Who Wants to Be a Millionaire - Sunday	ABC	12.4	2000						
+10	The Practice	ABC	11.7	2000						
+11	Who Wants to Be a Millionaire - Thursday	ABC	11.6	2000						
+19	Who Wants to Be a Millionaire - Friday	ABC	10.5	2000						
+22	NYPD Blue	ABC	9.7	2000						
+7	Monday Night Football	ABC	11.5	2001						
+23	The Practice	ABC	8.3	2001						
+23	NYPD Blue	ABC	8.3	2001						
+10	Monday Night Football	ABC	11.4	2002						
+16	The Bachelor/The Bachelorette	ABC	9.9	2002						
+29	NYPD Blue	ABC	7.8	2002						
+9	Monday Night Football	ABC	11.2	2003						
+21	The Bachelor/The Bachelorette	ABC	8.3	2003						
+4	Desperate Housewives	ABC	14.5	2004						
+8	Grey's Anatomy	ABC	11.6	2004						
+10	Monday Night Football	ABC	10.8	2004						
+13	Lost	ABC	9.8	2004						
+18	Extreme Makeover: Home Edition	ABC	9.1	2004						
+24	Boston Legal	ABC	8.1	2004						
+4	Desperate Housewives	ABC	13.8	2005						
+5	Grey's Anatomy	ABC	12.5	2005						
+7	Dancing with the Stars	ABC	12	2005						
+9	Monday Night Football	ABC	10.6	2005						
+15	Dancing with the Stars - Results	ABC	9.6	2005						
+18	Lost	ABC	9.2	2005						
+23	Extreme Makeover: Home Edition	ABC	8.6	2005						
+24	Commander in Chief	ABC	8.4	2005						
+3	Dancing with the Stars - Monday	ABC	12.7	2006						
+3	Dancing with the Stars - Tuesday	ABC	12.7	2006						
+3	Dancing with the Stars - Wednesday	ABC	12.7	2006						
+7	Grey's Anatomy	ABC	12.1	2006						
+9	Desperate Housewives	ABC	10.8	2006						
+22	Lost	ABC	8.3	2006						
+26	Extreme Makeover: Home Edition	ABC	7.7	2006						
+27	Ugly Betty	ABC	7.4	2006						
+27	ER	ABC	7.4	2006						
+27	24	ABC	7.4	2006						
+30	Brothers & Sisters	ABC	7.3	2006						
+3	Dancing with the Stars - Monday	ABC	14	2007						
+4	Dancing with the Stars - Tuesday	ABC	12.6	2007						
+5	Dancing with the Stars - Wednesday	ABC	12.3	2007						
+6	Desperate Housewives	ABC	11.6	2007						
+9	Grey's Anatomy	ABC	10.4	2007						
+19	Samantha Who?	ABC	8	2007						
+20	Lost	ABC	7.9	2007						
+21	Extreme Makeover: Home Edition	ABC	7.8	2007						
+22	Brothers & Sisters	ABC	7.6	2007						
+22	CSI: NY	ABC	7.6	2007						
+22	Heroes	ABC	7.6	2007						
+26	Private Practice	ABC	7.3	2007						
+3	Dancing with the Stars - Monday	ABC	12.9	2008						
+7	Dancing with the Stars - Tuesday	ABC	10.7	2008						
+9	Desperate Housewives	ABC	9.9	2008						
+10	Grey's Anatomy	ABC	9.6	2008						
+20	The Bachelor	ABC	7.5	2008						
+23	Brothers & Sisters	ABC	7.2	2008						
+25	Castle	ABC	6.9	2008						
+29	Lost	ABC	6.6	2008						
+3	Dancing with the Stars	ABC	12.6	2009						
+7	Dancing with the Stars - Results	ABC	9.9	2009						
+11	Grey's Anatomy	ABC	9	2009						
+13	Desperate Housewives	ABC	8.8	2009						
+21	The Bachelor	ABC	7.8	2009						
+23	Brothers & Sisters	ABC	7	2009						
+24	Castle	ABC	6.9	2009						
+24	Lost	ABC	6.9	2009						
+29	Private Practice	ABC	6.3	2009						
+2	Dancing with the Stars	ABC	13.8	2010						
+5	Dancing with the Stars - Results	ABC	11.8	2010						
+9	Body of Proof	ABC	9	2010						
+17	Desperate Housewives	ABC	7.5	2010						
+17	Grey's Anatomy	ABC	7.5	2010						
+22	Castle	ABC	7.3	2010						
+25	Modern Family	ABC	7.1	2010						
+27	The Bachelor	ABC	7	2010						
+3	Dancing with the Stars	ABC	12	2011						
+6	Dancing with the Stars - Results	ABC	10.6	2011						
+15	Modern Family	ABC	8.1	2011						
+16	Castle	ABC	8	2011						
+21	Grey's Anatomy	ABC	7.6	2011						
+28	Desperate Housewives	ABC	7	2011						
+28	Once Upon a Time	ABC	7	2011						
+6	Dancing with the Stars	ABC	9.9	2012						
+7	Dancing with the Stars - Results	ABC	9.2	2012						
+15	Castle	ABC	8.1	2012						
+18	Grey's Anatomy	ABC	7.7	2012						
+18	Modern Family	ABC	7.7	2012						
+23	Body of Proof	ABC	7.3	2012						
+5	Dancing with the Stars	ABC	10	2013						
+11	Grey's Anatomy	ABC	8.5	2013						
+12	Castle	ABC	8.3	2013						
+13	Scandal	ABC	8.2	2013						
+15	Resurrection	ABC	8.1	2013						
+18	Modern Family	ABC	7.6	2013						
+5	Dancing with the Stars	ABC	10	2015						
+11	Grey's Anatomy	ABC	8.5	2015						
+12	Castle	ABC	8.3	2015						
+13	Scandal	ABC	8.2	2015						
+15	Resurrection	ABC	8.1	2015						
+18	Modern Family	ABC	7.6	2015						
+4	Roseanne	ABC	10.2	2017						
+7	The Good Doctor	ABC	9.3	2017						
+12	Grey's Anatomy	ABC	7.1	2017						
+15	Dancing with the Stars	ABC	6.9	2017						
+25	Dancing with the Stars: Athletes	ABC	6	2017						
+30	American Idol - Monday	ABC	5.6	2017						
+9	The Good Doctor	ABC	7.4	2018						
+20	Grey's Anatomy	ABC	6.5	2018						
+27	The Conners	ABC	5.8	2018						
+29	Dancing with the Stars	ABC	5.5	2018						
+7	Dancing with the Stars	ABC	9.7	2014						
+8	Scandal	ABC	9	2014						
+17	Grey's Anatomy	ABC	7.8	2014						
+20	How to Get Away with Murder	ABC	7.7	2014						
+23	Modern Family	ABC	7.5	2014						
+28	Castle	ABC	7.2	2014						
+16	S.W.A.T.	ABC	22.6	1974						
+18	The Rookies	ABC	22	1974						
+22	The Streets of San Francisco	ABC	21.3	1974						
+2	"Rich Man, Poor Man"	ABC	28	1975						
+3	Laverne & Shirley	ABC	27.5	1975						
+5	The Bionic Woman	ABC	24.9	1975						
+9	The Six Million Dollar Man	ABC	24.3	1975						
+10	ABC Monday Night Movie	ABC	24.2	1975						
+11	Happy Days	ABC	23.9	1975						
+13	ABC Sunday Night Movie	ABC	23	1975						
+16	Starsky & Hutch	ABC	22.5	1975						
+16	Good Heavens	ABC	22.5	1975						
+18	"Welcome Back, Kotter"	ABC	22.1	1975						
+22	Barretta	ABC	21.3	1975						
+26	Donny & Marie	ABC	20.7	1975						
+26	The Streets of San Francisco	ABC	20.7	1975						
+1	Happy Days	ABC	31.5	1976						
+2	Laverne & Shirley	ABC	30.9	1976						
+3	ABC Monday Night Movie	ABC	26	1976						
+5	Charlie's Angels	ABC	25.8	1976						
+7	The Six Million Dollar Man	ABC	24.2	1976						
+8	ABC Sunday Night Movie	ABC	23.4	1976						
+8	Barretta	ABC	23.4	1976						
+11	Three's Company	ABC	23.1	1976						
+13	"Welcome Back, Kotter"	ABC	22.7	1976						
+14	The Bionic Woman	ABC	22.4	1976						
+17	Barney Miller	ABC	22.2	1976						
+21	"Rich Man, Poor Man Book II"	ABC	21.6	1976						
+22	Monday Night Football	ABC	21.2	1976						
+23	Eight Is Enough	ABC	21.1	1976						
+25	What's Happening!!	ABC	20.9	1976						
+28	ABC Friday Night Movie	ABC	20.2	1976						
+29	The Tony Randall Show	ABC	20.1	1976						
+1	Laverne & Shirley	ABC	31.6	1977						
+2	Happy Days	ABC	31.4	1977						
+3	Three's Company	ABC	28.3	1977						
+4	Charlie's Angels	ABC	24.4	1977						
+11	How the West Was Won	ABC	22.5	1977						
+12	Eight Is Enough	ABC	22.2	1977						
+13	Soap	ABC	22	1977						
+14	The Love Boat	ABC	21.9	1977						
+16	Monday Night Football	ABC	21.5	1977						
+17	Fantasy Island	ABC	21.4	1977						
+17	Barney Miller	ABC	21.4	1977						
+20	ABC Sunday Night Movie	ABC	20.8	1977						
+24	ABC Monday Night Movie	ABC	20.3	1977						
+26	"Welcome Back, Kotter"	ABC	19.9	1977						
+1	Laverne & Shirley	ABC	30.5	1978						
+2	Three's Company	ABC	30.3	1978						
+3	Mork & Mindy	ABC	28.6	1978						
+3	Happy Days	ABC	28.6	1978						
+5	Angie	ABC	26.7	1978						
+8	The Ropers	ABC	25.2	1978						
+9	Taxi	ABC	24.9	1978						
+11	Eight Is Enough	ABC	24.8	1978						
+12	Charlie's Angels	ABC	24.4	1978						
+15	ABC Sunday Night Movie	ABC	22.6	1978						
+15	Barney Miller	ABC	22.6	1978						
+17	The Love Boat	ABC	22.1	1978						
+19	Soap	ABC	21.3	1978						
+22	Fantasy Island	ABC	20.8	1978						
+23	Vega$	ABC	20.6	1978						
+28	Monday Night Football	ABC	19.8	1978						
+28	What's Happening!!	ABC	19.8	1978						
+2	Three's Company	ABC	26.3	1979						
+3	That's Incredible!	ABC	25.8	1979						
+12	Eight Is Enough	ABC	22.8	1979						
+13	Taxi	ABC	22.4	1979						
+17	Happy Days	ABC	21.7	1979						
+20	Charlie's Angels	ABC	20.9	1979						
+20	Barney Miller	ABC	20.9	1979						
+23	Benson	ABC	20.6	1979						
+23	The Love Boat	ABC	20.6	1979						
+25	Soap	ABC	20.5	1979						
+27	Mork & Mindy	ABC	20.2	1979						
+28	Fantasy Island	ABC	20.1	1979						
+29	Ten-speed and Brown Shoe	ABC	20	1979						
+29	ABC Sunday Night Movie	ABC	20	1979						
+29	Vega$	ABC	20	1979						
+5	The Love Boat	ABC	24.3	1980						
+8	Three's Company	ABC	22.4	1980						
+15	Happy Days	ABC	20.8	1980						
+15	Too Close for Comfort	ABC	20.8	1980						
+17	Fantasy Island	ABC	20.7	1980						
+20	Monday Night Football	ABC	20.6	1980						
+20	Laverne & Shirley	ABC	20.6	1980						
+22	That's Incredible!	ABC	20.5	1980						
+23	Hart to Hart	ABC	19.9	1980						
+24	ABC Sunday Night Movie	ABC	19.4	1980						
+4	Three's Company	ABC	23.3	1981						
+8	ABC Monday Night Movie	ABC	22.5	1981						
+11	Monday Night Football	ABC	21.8	1981						
+14	The Love Boat	ABC	21.2	1981						
+15	Hart to Hart	ABC	21.1	1981						
+15	"Trapper John, M.D."	ABC	21.1	1981						
+18	Happy Days	ABC	20.6	1981						
+19	Dynasty	ABC	20.2	1981						
+20	Laverne & Shirley	ABC	19.9	1981						
+22	ABC Sunday Night Movie	ABC	19.5	1981						
+26	The Fall Guy	ABC	19	1981						
+28	That's Incredible!	ABC	18.4	1981						
+28	T.J. Hooker	ABC	18.4	1981						
+30	Fantasy Island	ABC	18.3	1981						
+5	Dynasty	ABC	22.4	1982						
+6	Three's Company	ABC	21.2	1982						
+9	The Love Boat	ABC	20.3	1982						
+10	Monday Night Football	ABC	20.1	1982						
+14	The Fall Guy	ABC	19.4	1982						
+15	9 to 5	ABC	19.3	1982						
+17	Hart to Hart	ABC	18.9	1982						
+22	That's Incredible!	ABC	18.3	1982						
+24	ABC Monday Night Movie	ABC	18	1982						
+25	Laverne & Shirley	ABC	17.8	1982						
+26	ABC Sunday Night Movie	ABC	17.6	1982						
+28	Happy Days	ABC	17.4	1982						
+3	Dynasty	ABC	24.1	1983						
+9	Hotel	ABC	21.1	1983						
+12	ABC Sunday Night Movie	ABC	20.4	1983						
+12	ABC Monday Night Movie	ABC	20.4	1983						
+16	The Fall Guy	ABC	19.9	1983						
+17	The Love Boat	ABC	19	1983						
+21	Monday Night Football	ABC	18.1	1983						
+25	Webster	ABC	17.2	1983						
+25	Hardcastle and McCormick	ABC	17.2	1983						
+1	Dynasty	ABC	25	1984						
+12	Hotel	ABC	19.7	1984						
+21	ABC Sunday Night Movie	ABC	17.5	1984						
+22	The Fall Guy	ABC	17.1	1984						
+7	Dynasty	ABC	21.8	1985						
+10	Who's the Boss?	ABC	21.1	1985						
+15	Monday Night Football	ABC	19.8	1985						
+17	Growing Pains	ABC	19.5	1985						
+22	Hotel	ABC	18.3	1985						
+24	Moonlighting	ABC	18.1	1985						
+8	Growing Pains	ABC	22.7	1986						
+9	Moonlighting	ABC	22.4	1986						
+10	Who's the Boss?	ABC	22	1986						
+18	Monday Night Football	ABC	18.4	1986						
+24	Dynasty	ABC	17.2	1986						
+30	Head of the Class	ABC	16.4	1986						
+5	Growing Pains	ABC	21.3	1987						
+6	Who's the Boss?	ABC	21.2	1987						
+10	The Wonder Years	ABC	18.8	1987						
+12	Moonlighting	ABC	18.3	1987						
+16	Monday Night Football	ABC	17.4	1987						
+23	Head of the Class	ABC	16.7	1987						
+2	Roseanne	ABC	23.8	1988						
+7	Who's the Boss?	ABC	20.8	1988						
+10	Anything but Love	ABC	19	1988						
+15	Monday Night Football	ABC	17.5	1988						
+20	Head of the Class	ABC	17.1	1988						
+29	ABC Mystery Movie	ABC	15.4	1988						
+1	Roseanne	ABC	23.1	1989						
+5	America's Funniest Home Videos	ABC	20.9	1989						
+8	The Wonder Years	ABC	19.2	1989						
+10	Monday Night Football	ABC	18.1	1989						
+12	Who's the Boss?	ABC	17.9	1989						
+13	Chicken Soup	ABC	17.7	1989						
+18	Coach	ABC	17	1989						
+21	Growing Pains	ABC	15.4	1989						
+22	Full House	ABC	15.3	1989						
+26	Head of the Class	ABC	14.8	1989						
+28	"Doogie Howser, M.D."	ABC	14.5	1989						
+2	60 Minutes	CBS	20.6	1990						
+6	Murphy Brown	CBS	16.9	1990						
+10	Designing Women	CBS	16.5	1990						
+12	"Murder, She Wrote"	CBS	16.4	1990						
+19	CBS Sunday Movie	CBS	15	1990						
+21	Major Dad	CBS	14.9	1990						
+1	60 Minutes	CBS	21.9	1991						
+3	Murphy Brown	CBS	18.6	1991						
+6	Designing Women	CBS	17.3	1991						
+8	"Murder, She Wrote"	CBS	16.9	1991						
+9	Major Dad	CBS	16.8	1991						
+14	CBS Sunday Night Movie	CBS	15.9	1991						
+15	Evening Shade	CBS	15.6	1991						
+16	Northern Exposure	CBS	15.5	1991						
+27	Family Matters	CBS	13.5	1991						
+29	48 Hours	CBS	13.2	1991						
+1	60 Minutes	CBS	21.9	1992						
+4	Murphy Brown	CBS	17.9	1992						
+5	"Murder, She Wrote"	CBS	17.7	1992						
+8	CBS Sunday Movie	CBS	16.1	1992						
+11	Northern Exposure	CBS	15.2	1992						
+12	Rescue 911	CBS	15.1	1992						
+14	CBS Tuesday Movie	CBS	14.8	1992						
+15	Love & War	CBS	14.7	1992						
+19	Evening Shade	CBS	14.5	1992						
+20	Hearts Afire	CBS	14.3	1992						
+23	"Dr. Quinn, Medicine Woman"	CBS	14	1992						
+26	48 Hours	CBS	13.5	1992						
+1	60 Minutes	CBS	20.9	1993						
+9	Murphy Brown	CBS	16.3	1993						
+10	CBS Sunday Movie	CBS	16.2	1993						
+11	"Murder, She Wrote"	CBS	16	1993						
+13	Love & War	CBS	14.5	1993						
+14	Northern Exposure	CBS	14.4	1993						
+21	Dave's World	CBS	13.7	1993						
+25	CBS Tuesday Movie	CBS	13.3	1993						
+27	Evening Shade	CBS	13.2	1993						
+27	Rescue 911	CBS	13.2	1993						
+6	60 Minutes	CBS	17.2	1994						
+8	"Murder, She Wrote"	CBS	15.6	1994						
+16	Murphy Brown	CBS	14.1	1994						
+18	CBS Sunday Movie	CBS	13.7	1994						
+21	Dave's World	CBS	12.9	1994						
+22	Cybill	CBS	12.8	1994						
+24	The Nanny	CBS	12.5	1994						
+29	Chicago Hope	CBS	11.7	1994						
+9	60 Minutes	CBS	14.2	1995						
+16	The Nanny	CBS	12.5	1995						
+18	"Walker, Texas Ranger"	CBS	12.3	1995						
+18	Murphy Brown	CBS	12.3	1995						
+23	Chicago Hope	CBS	11.9	1995						
+24	CBS Sunday Movie	CBS	11.4	1995						
+24	Can't Hurry Love	CBS	11.4	1995						
+10	Touched by an Angel	CBS	13.6	1996						
+11	60 Minutes	CBS	13.3	1996						
+14	CBS Sunday Movie	CBS	12.1	1996						
+21	Cosby	CBS	11.2	1996						
+23	"Walker, Texas Ranger"	CBS	11	1996						
+30	Chicago Hope	CBS	10.5	1996						
+30	Cybill	CBS	10.5	1996						
+6	Touched by an Angel	CBS	14.2	1997						
+7	60 Minutes	CBS	13.8	1997						
+9	CBS Sunday Movie	CBS	13.1	1997						
+22	Diagnosis: Murder	CBS	9.8	1997						
+25	Cosby	CBS	9.5	1997						
+28	"Walker, Texas Ranger"	CBS	9.3	1997						
+30	Everybody Loves Raymond	CBS	9.2	1997						
+7	60 Minutes	CBS	13.2	1998						
+8	Touched by an Angel	CBS	13.1	1998						
+9	CBS Sunday Movie	CBS	12	1998						
+11	Everybody Loves Raymond	CBS	10.6	1998						
+16	JAG	CBS	9.8	1998						
+19	Becker	CBS	9.7	1998						
+25	"Walker, Texas Ranger"	CBS	9.2	1998						
+30	60 Minutes II	CBS	9	1998						
+30	Diagnosis: Murder	CBS	9	1998						
+8	60 Minutes	CBS	12	1999						
+10	Touched by an Angel	CBS	11.6	1999						
+12	Everybody Loves Raymond	CBS	11.4	1999						
+14	CBS Sunday Movie	CBS	10.9	1999						
+18	Becker	CBS	10.4	1999						
+19	Judging Amy	CBS	10.2	1999						
+20	JAG	CBS	9.7	1999						
+23	60 Minutes II	CBS	9.3	1999						
+27	Family Law	CBS	9	1999						
+30	CBS Wednesday Movie	CBS	8.8	1999						
+1	Survivor	CBS	17.4	2000						
+5	Everybody Loves Raymond	CBS	12.6	2000						
+11	CSI: Crime Scene Investigation	CBS	11.6	2000						
+15	60 Minutes	CBS	11.1	2000						
+16	Becker	CBS	10.9	2000						
+21	Judging Amy	CBS	9.9	2000						
+22	Touched by an Angel	CBS	9.7	2000						
+26	JAG	CBS	9.2	2000						
+27	The King of Queens	CBS	8.9	2000						
+28	"Yes, Dear"	CBS	8.7	2000						
+29	Family Law	CBS	8.6	2000						
+29	The District	CBS	8.6	2000						
+29	CBS Sunday Movie	CBS	8.6	2000						
+2	CSI: Crime Scene Investigation	CBS	14.5	2001						
+4	Everybody Loves Raymond	CBS	12.8	2001						
+6	Survivor	CBS	11.8	2001						
+11	Becker	CBS	10.7	2001						
+13	60 Minutes	CBS	10.1	2001						
+14	JAG	CBS	9.9	2001						
+16	Judging Amy	CBS	9.8	2001						
+19	The King of Queens	CBS	8.9	2001						
+20	"Yes, Dear"	CBS	8.8	2001						
+22	The Guardian	CBS	8.4	2001						
+25	Baby Bob	CBS	8.1	2001						
+30	60 Minutes II	CBS	7.7	2001						
+30	Family Law	CBS	7.7	2001						
+1	CSI: Crime Scene Investigation	CBS	16.3	2002						
+7	Survivor (Thailand & Amazon)	CBS	11.9	2002						
+7	Everybody Loves Raymond	CBS	11.9	2002						
+11	CSI: Miami	CBS	11	2002						
+15	Without a Trace	CBS	10	2002						
+17	60 Minutes	CBS	9.6	2002						
+18	Judging Amy	CBS	9.5	2002						
+19	Still Standing	CBS	9.4	2002						
+22	JAG	CBS	8.9	2002						
+24	"Yes, Dear"	CBS	8.6	2002						
+25	The King of Queens	CBS	8.5	2002						
+27	The Guardian	CBS	8.3	2002						
+28	My Big Fat Greek Life	CBS	8	2002						
+1	CSI: Crime Scene Investigation	CBS	15.9	2003						
+7	Survivor	CBS	12.3	2003						
+8	CSI: Miami	CBS	11.9	2003						
+9	Everybody Loves Raymond	CBS	11.2	2003						
+11	Without a Trace	CBS	11.1	2003						
+14	Two and a Half Men	CBS	9.9	2003						
+16	60 Minutes	CBS	9.4	2003						
+17	Cold Case	CBS	9.3	2003						
+23	CBS Sunday Movie	CBS	7.8	2003						
+23	Navy: NCIS	CBS	7.8	2003						
+26	Judging Amy	CBS	7.7	2003						
+26	Still Standing	CBS	7.7	2003						
+30	The King of Queens	CBS	7.3	2003						
+1	CSI: Crime Scene Investigation	CBS	16.5	2004						
+5	CSI: Miami	CBS	12.4	2004						
+6	Without a Trace	CBS	12.3	2004						
+7	Survivor	CBS	12	2004						
+9	Everybody Loves Raymond	CBS	11.2	2004						
+11	Two and a Half Men	CBS	10.6	2004						
+14	Cold Case	CBS	9.7	2004						
+16	60 Minutes	CBS	9.2	2004						
+20	CSI: NY	CBS	8.9	2004						
+22	NCIS	CBS	8.8	2004						
+27	CBS Sunday Movie	CBS	7.6	2004						
+27	The Amazing Race	CBS	7.6	2004						
+29	Judging Amy	CBS	7.4	2004						
+3	CSI: Crime Scene Investigation	CBS	15.6	2005						
+6	Without a Trace	CBS	12.3	2005						
+8	CSI: Miami	CBS	11.8	2005						
+11	Survivor	CBS	10.3	2005						
+12	NCIS	CBS	9.8	2005						
+13	Two and a Half Men	CBS	9.7	2005						
+13	The Unit	CBS	9.7	2005						
+17	Cold Case	CBS	9.3	2005						
+18	CSI: NY	CBS	9.2	2005						
+21	60 Minutes	CBS	9	2005						
+25	The New Adventures of Old Christine	CBS	8.3	2005						
+27	Criminal Minds	CBS	8.2	2005						
+30	Out of Practice	CBS	7.8	2005						
+6	CSI: Crime Scene Investigation	CBS	12.2	2006						
+10	CSI: Miami	CBS	10.7	2006						
+12	Without a Trace	CBS	9.4	2006						
+14	Two and a Half Men	CBS	9.1	2006						
+15	NCIS	CBS	9	2006						
+16	CSI: NY	CBS	8.9	2006						
+16	Cold Case	CBS	8.9	2006						
+18	Criminal Minds	CBS	8.8	2006						
+18	Survivor	CBS	8.8	2006						
+20	60 Minutes	CBS	8.7	2006						
+20	Shark	CBS	8.7	2006						
+25	Rules of Engagement	CBS	7.8	2006						
+30	The King of Queens	CBS	7.3	2006						
+7	CSI: Crime Scene Investigation	CBS	10.6	2007						
+11	CSI: Miami	CBS	9.2	2007						
+11	NCIS	CBS	9.2	2007						
+13	Without a Trace	CBS	8.8	2007						
+13	The Moment of Truth	CBS	8.8	2007						
+15	Two and a Half Men	CBS	8.5	2007						
+15	Survivor	CBS	8.5	2007						
+17	60 Minutes	CBS	8.4	2007						
+18	Criminal Minds	CBS	8.2	2007						
+28	Cold Case	CBS	7.1	2007						
+30	Shark	CBS	7	2007						
+30	The Unit	CBS	7	2007						
+4	CSI: Crime Scene Investigation	CBS	11.5	2008						
+5	NCIS	CBS	10.9	2008						
+6	The Mentalist	CBS	10.8	2008						
+11	Criminal Minds	CBS	9.4	2008						
+12	Two and a Half Men	CBS	9.1	2008						
+12	CSI: Miami	CBS	9.1	2008						
+14	60 Minutes	CBS	8.9	2008						
+15	CSI: NY	CBS	8.6	2008						
+16	Without a Trace	CBS	8.4	2008						
+18	Survivor	CBS	7.8	2008						
+18	Eleventh Hour	CBS	7.8	2008						
+20	Cold Case	CBS	7.5	2008						
+24	Rules of Engagement	CBS	7.1	2008						
+29	Ghost Whisperer	CBS	6.6	2008						
+29	NUMB3RS	CBS	6.6	2008						
+4	NCIS	CBS	11.5	2009						
+6	The Mentalist	CBS	10.6	2009						
+8	NCIS: Los Angeles	CBS	9.8	2009						
+8	Undercover Boss	CBS	9.8	2009						
+10	CSI: Crime Scene Investigation	CBS	9.7	2009						
+12	Two and a Half Men	CBS	8.9	2009						
+14	The Big Bang Theory	CBS	8.5	2009						
+14	Criminal Minds	CBS	8.5	2009						
+14	The Good Wife	CBS	8.5	2009						
+17	60 Minutes	CBS	8.4	2009						
+18	CSI: Miami	CBS	8.1	2009						
+19	CSI: NY	CBS	7.9	2009						
+19	Survivor	CBS	7.9	2009						
+26	The Amazing Race	CBS	6.6	2009						
+29	Cold Case	CBS	6.3	2009						
+5	NCIS	CBS	11.8	2010						
+7	NCIS: Los Angeles	CBS	10.1	2010						
+8	The Mentalist	CBS	9.6	2010						
+10	Criminal Minds	CBS	8.7	2010						
+11	The Good Wife	CBS	8.5	2010						
+12	60 Minutes	CBS	8.4	2010						
+12	CSI: Crime Scene Investigation	CBS	8.4	2010						
+14	The Big Bang Theory	CBS	8	2010						
+14	Blue Bloods	CBS	8	2010						
+16	Two and a Half Men	CBS	7.7	2010						
+17	Hawaii Five-0	CBS	7.5	2010						
+21	Survivor	CBS	7.4	2010						
+22	CSI: Miami	CBS	7.3	2010						
+25	Undercover Boss	CBS	7.1	2010						
+29	Criminal Minds: Suspect Behavior	CBS	6.9	2010						
+29	Mike & Molly	CBS	6.9	2010						
+2	NCIS	CBS	12.3	2011						
+7	NCIS: Los Angeles	CBS	10.2	2011						
+8	The Big Bang Theory	CBS	9.7	2011						
+9	The Mentalist	CBS	9.3	2011						
+11	Two and a Half Men	CBS	9.1	2011						
+12	Person of Interest	CBS	9	2011						
+13	Criminal Minds	CBS	8.6	2011						
+14	60 Minutes	CBS	8.3	2011						
+16	CSI: Crime Scene Investigation	CBS	8	2011						
+18	Unforgettable	CBS	7.9	2011						
+19	Blue Bloods	CBS	7.8	2011						
+19	The Good Wife	CBS	7.8	2011						
+21	Hawaii Five-0	CBS	7.6	2011						
+25	Mike & Molly	CBS	7.2	2011						
+25	Rob	CBS	7.2	2011						
+27	CSI: Miami	CBS	7.1	2011						
+28	2 Broke Girls	CBS	7	2011						
+1	NCIS	CBS	13.5	2012						
+3	The Big Bang Theory	CBS	11.6	2012						
+4	NCIS: Los Angeles	CBS	11	2012						
+5	Person of Interest	CBS	10	2012						
+10	Two and a Half Men	CBS	8.7	2012						
+12	Blue Bloods	CBS	8.5	2012						
+14	Elementary	CBS	8.3	2012						
+16	60 Minutes	CBS	8	2012						
+16	Criminal Minds	CBS	8	2012						
+18	CSI: Crime Scene Investigation	CBS	7.7	2012						
+18	The Mentalist	CBS	7.7	2012						
+18	Vegas	CBS	7.7	2012						
+23	CSI: NY	CBS	7.3	2012						
+23	The Good Wife	CBS	7.3	2012						
+23	Survivor: Philippines	CBS	7.3	2012						
+28	2 Broke Girls	CBS	6.8	2012						
+28	Hawaii Five-0	CBS	6.8	2012						
+30	Survivor: Carmona	CBS	6.7	2012						
+1	NCIS	CBS	12.6	2013						
+3	The Big Bang Theory	CBS	12.3	2013						
+4	NCIS: Los Angeles	CBS	10.3	2013						
+7	Person of Interest	CBS	9	2013						
+9	Blue Bloods	CBS	8.8	2013						
+13	Criminal Minds	CBS	8.2	2013						
+16	CSI: Crime Scene Investigation	CBS	7.8	2013						
+17	60 Minutes	CBS	7.7	2013						
+18	Elementary	CBS	7.6	2013						
+18	The Good Wife	CBS	7.6	2013						
+21	Hawaii Five-0	CBS	7.5	2013						
+23	The Mentalist	CBS	7.3	2013						
+24	The Millers	CBS	7.1	2013						
+25	Survivor	CBS	7	2013						
+27	Two and a Half Men	CBS	6.8	2013						
+28	How I Met Your Mother	CBS	6.6	2013						
+29	Intelligence	CBS	6.5	2013						
+1	NCIS	CBS	12.6	2015						
+3	The Big Bang Theory	CBS	12.3	2015						
+4	NCIS: Los Angeles	CBS	10.3	2015						
+7	Person of Interest	CBS	9	2015						
+9	Blue Bloods	CBS	8.8	2015						
+13	Criminal Minds	CBS	8.2	2015						
+16	CSI: Crime Scene Investigation	CBS	7.8	2015						
+17	60 Minutes	CBS	7.7	2015						
+18	Elementary	CBS	7.6	2015						
+18	The Good Wife	CBS	7.6	2015						
+21	Hawaii Five-0	CBS	7.5	2015						
+23	The Mentalist	CBS	7.3	2015						
+24	The Millers	CBS	7.1	2015						
+25	Survivor	CBS	7	2015						
+27	Two and a Half Men	CBS	6.8	2015						
+28	How I Met Your Mother	CBS	6.6	2015						
+29	Intelligence	CBS	6.5	2015						
+1	The Big Bang Theory	CBS	11.1	2017						
+2	NCIS	CBS	10.3	2017						
+6	Young Sheldon	CBS	9.5	2017						
+8	Bull	CBS	8.9	2017						
+10	Blue Bloods	CBS	8.2	2017						
+11	NCIS: New Orleans	CBS	7.8	2017						
+12	60 Minutes	CBS	7.1	2017						
+16	Hawaii Five-0	CBS	6.8	2017						
+18	Mom	CBS	6.7	2017						
+19	NCIS: Los Angeles	CBS	6.6	2017						
+23	SEAL Team	CBS	6.1	2017						
+23	Instinct	CBS	6.1	2017						
+25	Criminal Minds	CBS	6	2017						
+28	Survivor	CBS	5.9	2017						
+29	S.W.A.T.	CBS	5.8	2017						
+30	Madam Secretary	CBS	5.6	2017						
+2	The Big Bang Theory	CBS	10.6	2018						
+3	NCIS	CBS	9.6	2018						
+4	Young Sheldon	CBS	8.7	2018						
+7	Blue Bloods	CBS	7.9	2018						
+7	FBI	CBS	7.9	2018						
+13	Bull	CBS	7	2018						
+17	NCIS: New Orleans	CBS	6.8	2018						
+18	60 Minutes	CBS	6.7	2018						
+21	Mom	CBS	6.4	2018						
+22	Hawaii Five-0	CBS	6.2	2018						
+22	NCIS: Los Angeles	CBS	6.2	2018						
+27	God Friended Me	CBS	5.8	2018						
+29	Survivor	CBS	5.5	2018						
+2	The Big Bang Theory	CBS	11.6	2014						
+2	NCIS	CBS	11.6	2014						
+4	NCIS: New Orleans	CBS	11.3	2014						
+6	Thursday Night Football	CBS	10.6	2014						
+8	Criminal Minds	CBS	9	2014						
+8	Madam Secretary	CBS	9	2014						
+11	Blue Bloods	CBS	8.8	2014						
+14	Scorpion	CBS	8.4	2014						
+16	The Good Wife	CBS	8.1	2014						
+17	60 Minutes	CBS	7.8	2014						
+17	Hawaii Five-0	CBS	7.8	2014						
+20	Person of Interest	CBS	7.7	2014						
+22	NCIS: Los Angeles	CBS	7.6	2014						
+23	Two and a Half Men	CBS	7.5	2014						
+25	Elementary	CBS	7.3	2014						
+25	The Mentalist	CBS	7.3	2014						
+25	Mom	CBS	7.3	2014						
+28	CSI: Crime Scene Investigation	CBS	7.2	2014						
+28	CSI: Cyber	CBS	7.2	2014						
+1	All in the Family	CBS	30.2	1974						
+4	The Jeffersons	CBS	27.6	1974						
+5	M*A*S*H	CBS	27.4	1974						
+6	Rhoda	CBS	26.3	1974						
+7	Good Times	CBS	25.8	1974						
+8	The Waltons	CBS	25.5	1974						
+9	Maude	CBS	24.9	1974						
+10	Hawaii Five-O	CBS	24.8	1974						
+11	The Mary Tyler Moore Show	CBS	24	1974						
+14	Kojak	CBS	23.3	1974						
+17	The Bob Newhart Show	CBS	22.4	1974						
+20	Mannix	CBS	21.6	1974						
+20	Cannon	CBS	21.6	1974						
+22	Cher	CBS	21.3	1974						
+25	Paul Sand in Friends and Lovers	CBS	20.7	1974						
+25	Tony Orlando & Dawn	CBS	20.7	1974						
+27	Medical Center	CBS	20.6	1974						
+28	Gunsmoke	CBS	20.5	1974						
+29	The Carol Burnett Show	CBS	20.4	1974						
+1	All in the Family	CBS	30.1	1975						
+4	Maude	CBS	25	1975						
+6	Phyllis	CBS	24.5	1975						
+7	Rhoda	CBS	24.4	1975						
+12	One Day at a Time	CBS	23.1	1975						
+14	The Waltons	CBS	22.9	1975						
+14	M*A*S*H	CBS	22.9	1975						
+19	The Mary Tyler Moore Show	CBS	21.9	1975						
+20	Kojak	CBS	21.8	1975						
+21	The Jeffersons	CBS	21.5	1975						
+23	The Sonny & Cher Show	CBS	21.2	1975						
+24	Good Times	CBS	21	1975						
+26	The Bob Newhart Show	CBS	20.7	1975						
+29	The Carol Burnett Show	CBS	20.5	1975						
+4	M*A*S*H	CBS	25.9	1976						
+8	One Day at a Time	CBS	23.4	1976						
+12	All in the Family	CBS	22.9	1976						
+15	The Waltons	CBS	22.3	1976						
+18	60 Minutes	CBS	21.9	1976						
+18	Hawaii Five-O	CBS	21.9	1976						
+24	The Jeffersons	CBS	21	1976						
+26	Good Times	CBS	20.5	1976						
+30	Alice	CBS	20	1976						
+4	60 Minutes	CBS	24.4	1977						
+4	All in the Family	CBS	24.4	1977						
+8	Alice	CBS	23.2	1977						
+8	M*A*S*H	CBS	23.2	1977						
+10	One Day at a Time	CBS	23	1977						
+20	The Waltons	CBS	20.8	1977						
+22	Barnaby Jones	CBS	20.6	1977						
+23	Hawaii Five-O	CBS	20.4	1977						
+25	Rhoda	CBS	20.1	1977						
+26	The Incredible Hulk	CBS	19.9	1977						
+26	Family	CBS	19.9	1977						
+29	On Our Own	CBS	19.6	1977						
+6	60 Minutes	CBS	25.5	1978						
+7	M*A*S*H	CBS	25.4	1978						
+9	All in the Family	CBS	24.9	1978						
+13	Alice	CBS	23.2	1978						
+18	One Day at a Time	CBS	21.6	1978						
+20	The Dukes of Hazzard	CBS	21	1978						
+24	Barnaby Jones	CBS	20.5	1978						
+26	Stockard Channing in Just Friends	CBS	20.2	1978						
+30	Lou Grant	CBS	19.7	1978						
+1	60 Minutes	CBS	28.4	1979						
+4	Alice	CBS	25.3	1979						
+4	M*A*S*H	CBS	25.3	1979						
+6	Dallas	CBS	25	1979						
+7	Flo	CBS	24.4	1979						
+8	The Jeffersons	CBS	24.3	1979						
+9	The Dukes of Hazzard	CBS	24.1	1979						
+10	One Day at a Time	CBS	23	1979						
+11	Archie Bunker's Place	CBS	22.9	1979						
+14	House Calls	CBS	22.1	1979						
+19	"Trapper John, M.D."	CBS	21.2	1979						
+22	WKRP in Cincinnati	CBS	20.7	1979						
+29	Knots Landing	CBS	20	1979						
+1	Dallas	CBS	34.5	1980						
+2	The Dukes of Hazzard	CBS	27.3	1980						
+3	60 Minutes	CBS	27	1980						
+4	M*A*S*H	CBS	25.7	1980						
+6	The Jeffersons	CBS	23.5	1980						
+7	Alice	CBS	22.9	1980						
+8	House Calls	CBS	22.4	1980						
+11	One Day at a Time	CBS	22	1980						
+13	Archie Bunker's Place	CBS	21.4	1980						
+14	"Magnum, P.I."	CBS	21	1980						
+17	"Trapper John, M.D."	CBS	20.7	1980						
+27	Lou Grant	CBS	19.1	1980						
+28	Knots Landing	CBS	19	1980						
+30	The Waltons	CBS	18.6	1980						
+1	Dallas	CBS	28.4	1981						
+2	60 Minutes	CBS	27.7	1981						
+3	The Jeffersons	CBS	23.4	1981						
+5	Alice	CBS	22.7	1981						
+6	The Dukes of Hazzard	CBS	22.6	1981						
+6	Too Close for Comfort	CBS	22.6	1981						
+9	M*A*S*H	CBS	22.3	1981						
+10	One Day at a Time	CBS	22	1981						
+12	Archie Bunker's Place	CBS	21.6	1981						
+13	Falcon Crest	CBS	21.4	1981						
+17	"Magnum, P.I."	CBS	20.9	1981						
+23	House Calls	CBS	19.2	1981						
+1	60 Minutes	CBS	25.5	1982						
+2	Dallas	CBS	24.6	1982						
+3	M*A*S*H	CBS	22.6	1982						
+3	"Magnum, P.I."	CBS	22.6	1982						
+7	Simon & Simon	CBS	21	1982						
+8	Falcon Crest	CBS	20.7	1982						
+12	The Jeffersons	CBS	20	1982						
+12	Newhart	CBS	20	1982						
+16	One Day at a Time	CBS	19.1	1982						
+18	Gloria	CBS	18.7	1982						
+18	"Trapper John, M.D."	CBS	18.7	1982						
+20	Knots Landing	CBS	18.6	1982						
+22	Archie Bunker's Place	CBS	18.3	1982						
+27	CBS Tuesday Night Movie	CBS	17.5	1982						
+30	The Dukes of Hazzard	CBS	17.2	1982						
+1	Dallas	CBS	25.7	1983						
+2	60 Minutes	CBS	24.2	1983						
+5	Simon & Simon	CBS	23.8	1983						
+6	"Magnum, P.I."	CBS	22.4	1983						
+7	Falcon Crest	CBS	22	1983						
+8	Kate & Allie	CBS	21.9	1983						
+10	Cagney & Lacey	CBS	20.9	1983						
+11	Knots Landing	CBS	20.8	1983						
+15	AfterMASH	CBS	20.1	1983						
+19	The Jeffersons	CBS	18.6	1983						
+20	Scarecrow & Mrs. King	CBS	18.3	1983						
+23	Newhart	CBS	18	1983						
+25	CBS Tuesday Night Movie	CBS	17.2	1983						
+25	Alice	CBS	17.2	1983						
+30	"Trapper John, M.D."	CBS	17	1983						
+2	Dallas	CBS	24.7	1984						
+4	60 Minutes	CBS	22.2	1984						
+7	Simon & Simon	CBS	21.8	1984						
+8	"Murder, She Wrote"	CBS	20.1	1984						
+9	Knots Landing	CBS	20	1984						
+10	Falcon Crest	CBS	19.9	1984						
+10	Crazy Like a Fox	CBS	19.9	1984						
+15	"Magnum, P.I."	CBS	19.1	1984						
+16	Newhart	CBS	18.4	1984						
+17	Kate & Allie	CBS	18.3	1984						
+22	Scarecrow & Mrs. King	CBS	17.1	1984						
+28	Cagney & Lacey	CBS	16.9	1984						
+29	"Trapper John, M.D."	CBS	16.8	1984						
+3	"Murder, She Wrote"	CBS	25.3	1985						
+4	60 Minutes	CBS	23.9	1985						
+6	Dallas	CBS	21.9	1985						
+12	CBS Sunday Night Movie	CBS	20.5	1985						
+14	Kate & Allie	CBS	20	1985						
+16	Newhart	CBS	19.6	1985						
+17	Knots Landing	CBS	19.5	1985						
+24	Falcon Crest	CBS	18.1	1985						
+28	Scarecrow & Mrs. King	CBS	17.4	1985						
+29	Simon & Simon	CBS	17.2	1985						
+4	"Murder, She Wrote"	CBS	25.4	1986						
+6	60 Minutes	CBS	23.3	1986						
+11	Dallas	CBS	21.3	1986						
+12	Newhart	CBS	19.5	1986						
+15	CBS Sunday Night Movie	CBS	18.6	1986						
+19	Kate & Allie	CBS	18.3	1986						
+26	Knots Landing	CBS	16.8	1986						
+8	60 Minutes	CBS	20.6	1987						
+9	"Murder, She Wrote"	CBS	20.2	1987						
+18	CBS Sunday Night Movie	CBS	17.2	1987						
+22	Dallas	CBS	16.8	1987						
+25	Newhart	CBS	16.5	1987						
+5	60 Minutes	CBS	21.7	1988						
+8	"Murder, She Wrote"	CBS	19.9	1988						
+27	Knots Landing	CBS	16.1	1988						
+27	CBS Sunday Movie	CBS	16.1	1988						
+29	Dallas	CBS	15.4	1988						
+7	60 Minutes	CBS	19.7	1989						
+13	"Murder, She Wrote"	CBS	17.7	1989						
+22	Designing Women	CBS	15.3	1989						
+24	CBS Sunday Movie	CBS	14.9	1989						
+27	Murphy Brown	CBS	14.7	1989						
+9	Thursday Night Football	CBS/NBC	8.5	2017						
+30	The Simpsons	FOX	13	1992						
+21	The X-Files	FOX	11.2	1996						
+19	The X-Files	FOX	10.6	1997						
+23	King of the Hill	FOX	9.7	1997						
+30	The Simpsons	FOX	9.2	1997						
+23	Ally McBeal	FOX	9.6	1998						
+28	The X-Files	FOX	9.1	1998						
+28	Malcolm in the Middle	FOX	8.9	1999						
+17	Temptation Island	FOX	10.7	2000						
+3	Joe Millionaire	FOX	13.3	2002						
+5	American Idol - Tuesday	FOX	12.6	2002						
+6	American Idol - Wednesday	FOX	12.5	2002						
+2	American Idol - Tuesday	FOX	14.9	2003						
+3	American Idol - Wednesday	FOX	14.1	2003						
+14	My Big Fat Obnoxious Fiance	FOX	9.9	2003						
+2	American Idol - Tuesday	FOX	15.7	2004						
+3	American Idol - Wednesday	FOX	15.3	2004						
+23	House	FOX	8.3	2004						
+1	American Idol - Tuesday	FOX	17.6	2005						
+2	American Idol - Wednesday	FOX	17.2	2005						
+9	House	FOX	10.6	2005						
+25	Unan1mous	FOX	8.3	2005						
+28	24	FOX	8.1	2005						
+1	American Idol - Wednesday	FOX	17.3	2006						
+2	American Idol - Tuesday	FOX	16.8	2006						
+8	House	FOX	11.1	2006						
+30	Are You Smarter than a 5th Grader?	FOX	7.3	2006						
+1	American Idol - Tuesday	FOX	16.1	2007						
+2	American Idol - Wednesday	FOX	15.9	2007						
+8	House	FOX	10.5	2007						
+30	Hell's Kitchen	FOX	7	2007						
+1	American Idol - Wednesday	FOX	15.1	2008						
+2	American Idol - Tuesday	FOX	14.6	2008						
+17	House	FOX	8.1	2008						
+22	24	FOX	7.3	2008						
+26	Bones	FOX	6.7	2008						
+1	American Idol - Tuesday	FOX	13.7	2009						
+2	American Idol - Wednesday	FOX	13.3	2009						
+22	House	FOX	7.5	2009						
+27	Bones	FOX	6.5	2009						
+28	24	FOX	6.4	2009						
+1	American Idol - Wednesday	FOX	14.5	2010						
+3	American Idol - Thursday	FOX	13.4	2010						
+27	Bones	FOX	7	2010						
+4	American Idol - Wednesday	FOX	11.8	2011						
+5	American Idol - Thursday	FOX	11	2011						
+23	The X Factor - Thursday	FOX	7.4	2011						
+23	The X Factor - Wednesday	FOX	7.4	2011						
+7	American Idol - Wednesday	FOX	9.2	2012						
+9	American Idol - Thursday	FOX	8.9	2012						
+23	The Following	FOX	7.3	2012						
+22	American Idol - Wednesday	FOX	7.4	2013						
+25	American Idol - Thursday	FOX	7	2013						
+22	American Idol - Wednesday	FOX	7.4	2015						
+25	American Idol - Thursday	FOX	7	2015						
+25	nine eleven	FOX	6	2017						
+4	Thursday Night Football	FOX	8.7	2018						
+25	The Masked Singer	FOX	6	2018						
+26	nine eleven	FOX	5.9	2018						
+5	Empire	FOX	10.9	2014						
+28	The Simpsons	FOX	14.5	1989						
+16	Real People	NBC	21.8	1979						
+25	The Fall Guy	ABC	17	1984						
+25	Remington Steele	NBC	17	1984						
+25	Webster	NBC	17	1984						
+1	Cheers	NBC	21.3	1990						
+4	A Different World	NBC	17.5	1990						
+5	The Cosby Show	NBC	17.1	1990						
+7	Empty Nest	NBC	16.7	1990						
+10	The Golden Girls	NBC	16.5	1990						
+16	Unsolved Mysteries	NBC	15.7	1990						
+17	Matlock	NBC	15.5	1990						
+21	In the Heat of the Night	NBC	14.9	1990						
+23	L.A. Law	NBC	14.8	1990						
+25	Grand	NBC	14.6	1990						
+4	Cheers	NBC	17.5	1991						
+13	Unsolved Mysteries	NBC	16.5	1991						
+17	A Different World	NBC	15.2	1991						
+18	The Cosby Show	NBC	15	1991						
+19	Wings	NBC	14.6	1991						
+22	The Fresh Prince of Bel-Air	NBC	14.3	1991						
+22	Empty Nest	NBC	14.3	1991						
+24	NBC Monday Movie	NBC	13.9	1991						
+28	L.A. Law	NBC	13.3	1991						
+30	In the Heat of the Night	NBC	13.1	1991						
+8	Cheers	NBC	16.1	1992						
+16	The Fresh Prince of Bel-Air	NBC	14.6	1992						
+21	Unsolved Mysteries	NBC	14.2	1992						
+24	NBC Monday Movie	NBC	13.9	1992						
+25	Seinfeld	NBC	13.7	1992						
+26	Blossom	NBC	13.5	1992						
+30	Wings	NBC	13	1992						
+3	Seinfeld	NBC	19.4	1993						
+7	Frasier	NBC	16.8	1993						
+18	Wings	NBC	13.9	1993						
+21	The Fresh Prince of Bel-Air	NBC	13.7	1993						
+23	NBC Monday Movie	NBC	13.6	1993						
+24	Homicide: Life on the Street	NBC	13.5	1993						
+1	Seinfeld	NBC	20.6	1994						
+2	ER	NBC	20	1994						
+8	Friends	NBC	15.6	1994						
+11	Mad About You	NBC	15.2	1994						
+12	Madman of the People	NBC	14.9	1994						
+14	Hope and Gloria	NBC	14.6	1994						
+15	Frasier	NBC	14.5	1994						
+19	NBC Monday Movie	NBC	13.6	1994						
+26	Wings	NBC	12.3	1994						
+27	Law & Order	NBC	12.2	1994						
+28	NBC Sunday Night Movie	NBC	12	1994						
+29	The Martin Short Show	NBC	11.7	1994						
+1	ER	NBC	22	1995						
+2	Seinfeld	NBC	21.2	1995						
+3	Friends	NBC	18.7	1995						
+4	Caroline in the City	NBC	18	1995						
+6	The Single Guy	NBC	16.7	1995						
+8	Boston Common	NBC	15.6	1995						
+11	Frasier	NBC	13.6	1995						
+14	NBC Monday Movie	NBC	12.9	1995						
+21	NBC Sunday Movie	NBC	12.2	1995						
+22	3rd Rock from the Sun	NBC	12.1	1995						
+24	Law & Order	NBC	11.4	1995						
+28	Dateline NBC - Tuesday	NBC	11.3	1995						
+1	ER	NBC	21.2	1996						
+2	Seinfeld	NBC	20.5	1996						
+3	Suddenly Susan	NBC	17	1996						
+4	Friends	NBC	16.8	1996						
+4	The Naked Truth	NBC	16.8	1996						
+6	Fired Up	NBC	16.5	1996						
+8	The Single Guy	NBC	14.1	1996						
+16	Frasier	NBC	11.8	1996						
+18	NBC Sunday Movie	NBC	11.5	1996						
+20	Dateline NBC - Tuesday	NBC	11.4	1996						
+23	Mad About You	NBC	11	1996						
+23	Caroline in the City	NBC	11	1996						
+23	NBC Monday Movie	NBC	11	1996						
+27	Law & Order	NBC	10.8	1996						
+30	Dateline NBC - Friday	NBC	10.5	1996						
+1	Seinfeld	NBC	21.7	1997						
+2	ER	NBC	20.4	1997						
+3	Veronica's Closet	NBC	16.6	1997						
+4	Friends	NBC	16.1	1997						
+8	Union Square	NBC	13.6	1997						
+10	Frasier	NBC	12	1997						
+12	Just Shoot Me!	NBC	11.9	1997						
+20	Law & Order	NBC	10.2	1997						
+23	Mad About You	NBC	9.7	1997						
+27	NBC Sunday Night Movie	NBC	9.4	1997						
+1	ER	NBC	17.8	1998						
+2	Friends	NBC	15.7	1998						
+3	Frasier	NBC	15.6	1998						
+5	Veronica's Closet	NBC	13.7	1998						
+5	Jesse	NBC	13.7	1998						
+13	Law & Order	NBC	10.1	1998						
+16	Providence	NBC	9.8	1998						
+19	Dateline NBC - Tuesday	NBC	9.7	1998						
+25	Dateline NBC - Friday	NBC	9.2	1998						
+28	NBC Sunday Night Movie	NBC	9.1	1998						
+4	ER	NBC	16.9	1999						
+5	Friends	NBC	14	1999						
+6	Frasier	NBC	13.6	1999						
+11	Law & Order	NBC	11.5	1999						
+13	Jesse	NBC	11.3	1999						
+15	Stark Raving Mad	NBC	10.7	1999						
+22	Providence	NBC	9.4	1999						
+24	The West Wing	NBC	9.1	1999						
+28	Dateline NBC - Friday	NBC	8.9	1999						
+30	Law & Order: Special Victims Unit	NBC	8.8	1999						
+2	ER	NBC	15	2000						
+5	Friends	NBC	12.6	2000						
+9	Law & Order	NBC	12.3	2000						
+11	The West Wing	NBC	11.6	2000						
+14	Will & Grace	NBC	11.3	2000						
+17	Frasier	NBC	10.7	2000						
+20	Just Shoot Me!	NBC	10.4	2000						
+22	Cursed/The Weber Show	NBC	9.7	2000						
+25	Law & Order: Special Victims Unit	NBC	9.6	2000						
+1	Friends	NBC	15	2001						
+3	ER	NBC	14.2	2001						
+5	Law & Order	NBC	12.6	2001						
+8	The West Wing	NBC	11.4	2001						
+9	Will & Grace	NBC	11	2001						
+9	Leap of Faith	NBC	11	2001						
+12	Law & Order: Special Victims Unit	NBC	10.4	2001						
+14	Frasier	NBC	9.9	2001						
+16	Inside Schwartz	NBC	9.8	2001						
+18	Just Shoot Me!	NBC	9.3	2001						
+20	Crossing Jordan	NBC	8.8	2001						
+25	Dateline NBC - Friday	NBC	8.1	2001						
+27	Fear Factor	NBC	7.9	2001						
+27	Law & Order: Criminal Intent	NBC	7.9	2001						
+27	Providence	NBC	7.9	2001						
+2	Friends	NBC	13.9	2002						
+4	ER	NBC	13.1	2002						
+9	Law & Order	NBC	11.7	2002						
+11	Will & Grace	NBC	11	2002						
+13	Scrubs	NBC	10.3	2002						
+14	Law & Order: Special Victims Unit	NBC	10.1	2002						
+19	Law & Order: Criminal Intent	NBC	9.4	2002						
+21	The West Wing	NBC	9	2002						
+23	"Good Morning, Miami"	NBC	8.7	2002						
+26	Frasier	NBC	8.4	2002						
+30	Fear Factor	NBC	7.7	2002						
+4	Friends	NBC	13.6	2003						
+5	The Apprentice	NBC	13	2003						
+6	ER	NBC	12.9	2003						
+12	Law & Order	NBC	10.8	2003						
+13	Will & Grace	NBC	10.4	2003						
+18	Law & Order: Special Victims Unit	NBC	8.7	2003						
+19	Crossing Jordan	NBC	8.6	2003						
+19	Law & Order: Criminal Intent	NBC		2003						
+22	Fear Factor	NBC	7.9	2003						
+23	The West Wing	NBC	7.8	2003						
+28	Las Vegas	NBC	7.6	2003						
+29	Average Joe	NBC	7.4	2003						
+30	Frasier	NBC	7.3	2003						
+12	ER	NBC	10.4	2004						
+14	The Apprentice	NBC	9.7	2004						
+16	Law & Order: Special Victims Unit	NBC	9.2	2004						
+18	Medium	NBC	9.1	2004						
+20	Law & Order	NBC	8.9	2004						
+25	Law & Order: Criminal Intent	NBC	7.9	2004						
+26	Crossing Jordan	NBC	7.7	2004						
+29	The West Wing	NBC	7.4	2004						
+15	Deal or No Deal - Monday	NBC	9.6	2005						
+18	Law & Order: Special Victims Unit	NBC	9.2	2005						
+21	Deal or No Deal - Wednesday	NBC	9	2005						
+28	ER	NBC	8.1	2005						
+11	Sunday Night Football	NBC	10.5	2006						
+13	Deal or No Deal - Monday	NBC	9.2	2006						
+23	Heroes	NBC	8	2006						
+24	Law & Order: Special Victims Unit	NBC	7.9	2006						
+10	Sunday Night Football	NBC	9.7	2007						
+22	Law & Order: Special Victims Unit	NBC	7.6	2007						
+27	Law & Order	NBC	7.2	2007						
+28	Deal or No Deal - Monday	NBC	7.1	2007						
+8	Sunday Night Football	NBC	10	2008						
+26	Law & Order: Special Victims Unit	NBC	6.7	2008						
+26	ER	NBC	6.7	2008						
+5	Sunday Night Football	NBC	11.3	2009						
+4	Sunday Night Football	NBC	12.7	2010						
+17	The Voice	NBC	7.5	2010						
+22	Harry's Law	NBC	7.3	2010						
+1	Sunday Night Football	NBC	12.4	2011						
+10	The Voice	NBC	9.2	2011						
+2	Sunday Night Football	NBC	12.4	2012						
+10	The Voice	NBC	8.7	2012						
+13	The Voice - Tuesday	NBC	8.4	2012						
+1	Sunday Night Football	NBC	12.6	2013						
+6	The Blacklist	NBC	9.5	2013						
+8	The Voice	NBC	8.9	2013						
+10	The Voice - Tuesday	NBC	8.6	2013						
+29	Chicago Fire	NBC	6.5	2013						
+1	Sunday Night Football	NBC	12.6	2015						
+6	The Blacklist	NBC	9.5	2015						
+8	The Voice	NBC	8.9	2015						
+10	The Voice - Tuesday	NBC	8.6	2015						
+29	Chicago Fire	NBC	6.5	2015						
+2	Sunday Night Football	NBC	10.3	2017						
+4	This Is Us	NBC	10.2	2017						
+12	The Voice	NBC	7.1	2017						
+16	The Voice: Tuesday	NBC	6.8	2017						
+19	Chicago Med	NBC	6.6	2017						
+21	Chicago P.D.	NBC	6.5	2017						
+22	Chicago Fire	NBC	6.2	2017						
+30	Law & Order: Special Victims Unit	NBC	5.6	2017						
+1	Sunday Night Football	NBC	10.9	2018						
+6	This Is Us	NBC	8.5	2018						
+9	Manifest	NBC	7.4	2018						
+11	Chicago Fire	NBC	7.2	2018						
+11	America's Got Talent: The Champions	NBC	7.2	2018						
+13	Chicago Med	NBC	7	2018						
+15	Chicago P.D.	NBC	6.9	2018						
+15	New Amsterdam	NBC	6.9	2018						
+19	The Voice	NBC	6.6	2018						
+22	The Voice: Tuesday	NBC	6.2	2018						
+1	Sunday Night Football	NBC	12.3	2014						
+12	The Blacklist	NBC	8.7	2014						
+13	The Voice: Monday	NBC	8.5	2014						
+15	The Voice: Tuesday	NBC	8.3	2014						
+2	Sanford and Son	NBC	29.6	1974						
+3	Chico and the Man	NBC	28.5	1974						
+12	The Rockford Files	NBC	23.7	1974						
+13	Little House on the Prairie	NBC	23.5	1974						
+15	Police Woman	NBC	22.8	1974						
+18	The Wonderful World of Disney	NBC	22	1974						
+22	The NBC Sunday Mystery Movie	NBC	21.3	1974						
+30	Emergency!	NBC	20	1974						
+7	Sanford and Son	NBC	24.4	1975						
+25	Chico and the Man	NBC	20.8	1975						
+30	Police Woman	NBC	20.2	1975						
+6	The Big Event	NBC	24.4	1976						
+15	Little House on the Prairie	NBC	22.3	1976						
+20	NBC Monday Night Movie	NBC	21.8	1976						
+27	Sanford and Son	NBC	20.3	1976						
+7	Little House on the Prairie	NBC	24.1	1977						
+15	NBC Monday Night Movie	NBC	21.7	1977						
+19	Project U.F.O.	NBC	21.2	1977						
+30	The Big Event - Sunday	NBC	19.4	1977						
+14	Little House on the Prairie	NBC	23.1	1978						
+21	NBC Monday Night Movie	NBC	20.9	1978						
+25	CHiPs	NBC	20.3	1978						
+27	Diff'rent Strokes	NBC	19.9	1978						
+14	Real People	NBC	22.1	1979						
+18	CHiPs	NBC	21.5	1979						
+26	Diff'rent Strokes	NBC	20.3	1979						
+10	Little House on the Prairie	NBC	22.1	1980						
+12	Real People	NBC	21.5	1980						
+17	Diff'rent Strokes	NBC	20.7	1980						
+24	CHiPs	NBC	19.4	1980						
+26	The Facts of Life	NBC	19.3	1980						
+29	NBC Monday Night Movie	NBC	18.8	1980						
+21	Real People	NBC	19.7	1981						
+24	The Facts of Life	NBC	19.1	1981						
+24	Little House on the Prairie	NBC	19.1	1981						
+27	Hill Street Blues	NBC	18.6	1981						
+10	The A-Team	NBC	20.1	1982						
+21	Hill Street Blues	NBC	18.4	1982						
+28	Little House: A New Beginning	NBC	17.4	1982						
+30	Real People	NBC	17.2	1982						
+4	The A-Team	NBC	24	1983						
+14	TV's Bloopers & Practical Jokes	NBC	20.3	1983						
+18	Riptide	NBC	18.8	1983						
+21	NBC Monday Night Movie	NBC	18.1	1983						
+24	The Facts of Life	NBC	17.3	1983						
+25	Knight Rider	NBC	17.2	1983						
+3	The Cosby Show	NBC	24.2	1984						
+5	Family Ties	NBC	22.1	1984						
+6	The A-Team	NBC	21.9	1984						
+12	Cheers	NBC	19.7	1984						
+18	NBC Monday Night Movie	NBC	18.2	1984						
+19	Highway to Heaven	NBC	17.7	1984						
+20	Night Court	NBC	17.6	1984						
+22	TV's Bloopers & Practical Jokes	NBC	17.1	1984						
+30	Hill Street Blues	NBC	16.6	1984						
+1	The Cosby Show	NBC	33.7	1985						
+2	Family Ties	NBC	30	1985						
+5	Cheers	NBC	23.7	1985						
+7	The Golden Girls	NBC	21.8	1985						
+9	Miami Vice	NBC	21.3	1985						
+11	Night Court	NBC	20.9	1985						
+13	Highway to Heaven	NBC	20.1	1985						
+19	You Again?	NBC	19.2	1985						
+20	227	NBC	18.8	1985						
+21	NBC Sunday Night Movie	NBC	18.5	1985						
+22	NBC Monday Night Movie	NBC	18.3	1985						
+24	Valerie	NBC	18.1	1985						
+27	The Facts of Life	NBC	17.7	1985						
+30	The A-Team	NBC	16.9	1985						
+1	The Cosby Show	NBC	34.9	1986						
+2	Family Ties	NBC	32.7	1986						
+3	Cheers	NBC	27.2	1986						
+5	The Golden Girls	NBC	24.5	1986						
+7	Night Court	NBC	23.2	1986						
+13	Amen	NBC	19.4	1986						
+14	227	NBC	18.9	1986						
+15	Matlock	NBC	18.6	1986						
+15	NBC Monday Night Movie	NBC	18.6	1986						
+20	NBC Sunday Night Movie	NBC	18.2	1986						
+21	L.A. Law	NBC	17.4	1986						
+21	My Sister Sam	NBC	17.4	1986						
+23	Falcon Crest	NBC	17.3	1986						
+24	Highway to Heaven	NBC	17.2	1986						
+26	Miami Vice	NBC	16.8	1986						
+28	ALF	NBC	16.5	1986						
+28	Hunter	NBC	16.5	1986						
+1	The Cosby Show	NBC	27.8	1987						
+2	A Different World	NBC	25	1987						
+3	Cheers	NBC	23.4	1987						
+4	The Golden Girls	NBC	21.8	1987						
+7	Night Court	NBC	20.8	1987						
+10	ALF	NBC	18.8	1987						
+12	L.A. Law	NBC	18.3	1987						
+14	Matlock	NBC	17.8	1987						
+15	Amen	NBC	17.5	1987						
+17	Family Ties	NBC	17.3	1987						
+19	In the Heat of the Night	NBC	17	1987						
+20	My Two Dads	NBC	16.9	1987						
+20	Valerie's Family	NBC	16.9	1987						
+23	NBC Sunday Night Movie	NBC	16.7	1987						
+26	NBC Monday Night Movie	NBC	16.4	1987						
+27	227	NBC	16.3	1987						
+28	Day by Day	NBC	16.2	1987						
+29	Hunter	NBC	16.1	1987						
+30	Aaron's Way	NBC	16	1987						
+1	The Cosby Show	NBC	25.6	1988						
+3	A Different World	NBC	23	1988						
+4	Cheers	NBC	22.3	1988						
+6	The Golden Girls	NBC	21.4	1988						
+9	Empty Nest	NBC	19.2	1988						
+11	Dear John	NBC	18.5	1988						
+12	Matlock	NBC	17.7	1988						
+13	L.A. Law	NBC	17.6	1988						
+13	Growing Pains	NBC	17.6	1988						
+15	ALF	NBC	17.5	1988						
+17	Unsolved Mysteries	NBC	17.4	1988						
+18	In the Heat of the Night	NBC	17.3	1988						
+19	Hunter	NBC	17.2	1988						
+21	Night Court	NBC	16.9	1988						
+22	The Hogan Family	NBC	16.3	1988						
+22	NBC Sunday Night Movie	NBC	16.3	1988						
+22	The Wonder Years	NBC	16.3	1988						
+25	Amen	NBC	16.2	1988						
+25	NBC Monday Night Movie	NBC	16.2	1988						
+1	The Cosby Show	NBC	23.1	1989						
+3	Cheers	NBC	22.7	1989						
+4	A Different World	NBC	21.1	1989						
+6	The Golden Girls	NBC	20.1	1989						
+9	Empty Nest	NBC	18.9	1989						
+11	Unsolved Mysteries	NBC	18	1989						
+15	Grand	NBC	17.6	1989						
+16	L.A. Law	NBC	17.4	1989						
+17	Dear John	NBC	17.2	1989						
+19	In the Heat of the Night	NBC	16.9	1989						
+20	Matlock	NBC	16.6	1989						
+24	Hunter	NBC	14.9	1989						
+28	Night Court	NBC	14.5	1989						
+14	Cheers	NBC	19.2	1984						
+25	ABC Monday Movie	ABC	13.8	1991						
+16	The Jackie Thomas Show	ABC	14.6	1992						
+25	"Dr. Quinn, Medicine Woman"	CBS	13.3	1993						
+28	Dateline NBC - Wednesday	NBC	11.3	1995						
+27	3rd Rock from the Sun	NBC	10.8	1996						
+13	Dateline NBC - Tuesday	NBC	11.5	1997						
+14	Dateline NBC - Monday	NBC	11.4	1997						
+14	20/20 - Friday	ABC	9.9	1998						
+19	Dateline NBC - Monday	NBC	9.7	1998						
+19	CBS Tuesday Movie	CBS	9.7	1998						
+24	Spin City	ABC	9.1	1999						
