@@ -53,7 +53,7 @@ NYPD Blue	Drama	No
 Turning Point	News	No
 Dave's World	Sitcom	No
 Homicide: Life on the Street	Drama	No
-Phenom	Phenom	No
+Phenom	Drama	No
 ER	Drama	No
 Friends	Sitcom	No
 Mad About You	Sitcom	No
@@ -125,7 +125,7 @@ Baby Bob	Sitcom	No
 Fear Factor	Reality	No
 Joe Millionaire	Reality	No
 American Idol - Tuesday	Variety	No
-American Idol - Wednesday	Vareity	No
+American Idol - Wednesday	Variety	No
 Survivor (Thailand & Amazon)	Reality	No
 Scrubs	Sitcom	No
 Without a Trace	Drama	No
@@ -204,7 +204,7 @@ Modern Family	Sitcom	No
 Mike & Molly	Sitcom	No
 Person of Interest	Drama	No
 Unforgettable	Drama	No
-The X Factor - Thursday	Vareity	No
+The X Factor - Thursday	Variety	No
 The X Factor - Wednesday	Variety	No
 Rob	Sitcom	No
 2 Broke Girls	Sitcom	No
@@ -223,7 +223,7 @@ How I Met Your Mother	Sitcom	No
 Chicago Fire	Drama	No
 Intelligence	Drama	No
 This Is Us	Drama	No
-Young Sheldon	Sitocm	No
+Young Sheldon	Sitcom	No
 The Good Doctor	Drama	No
 Bull	Drama	No
 Thursday Night Football	Sports	No
@@ -234,7 +234,7 @@ Instinct	Drama	No
 nine eleven	Drama	No
 S.W.A.T.	Drama	No
 Madam Secretary	Drama	No
-American Idol - Monday	Vareity	No
+American Idol - Monday	Variety	No
 FBI	Drama	No
 Manifest	Drama	No
 New Amsterdam	Drama	No
@@ -295,7 +295,7 @@ Starsky & Hutch	Sitcom	No
 Good Heavens	Special	No
 "Welcome Back, Kotter"	Sitcom	No
 Barretta	Drama	No
-The Sonny & Cher Show	Vriety	No
+The Sonny & Cher Show	Variety	No
 Donny & Marie	Variety	No
 Charlie's Angels	Drama	No
 The Big Event	Special	No
@@ -455,6 +455,3 @@ AfterMASH	Sitcom	Yes
 A Different World	Sitcom	Yes
 Empty Nest	Sitcom	yes
 The Simpsons	Sitcom	Yes
-		
-		
-		
