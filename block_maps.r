@@ -1,5 +1,4 @@
 #lets do some simple chloropleth maps
-
 #we need to start with some mapdata - you will need to install these
 library(maps)
 library(mapdata)

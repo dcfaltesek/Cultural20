@@ -7,6 +7,32 @@ library(ggthemes)
 library(viridis)
 library(wesanderson)
 
+
+ggplot(cocaine, aes(cocaine$price, cocaine$weight))+geom_jitter()
+cocaine[732,3:4]
+
+graphic<-cocaine%>%
+  ggplot(aes(price, potency))+geom_jitter()
+
+<-
+==
+|
+&
+-c()
+!=
+
+library(dplyr)  
+select()
+filter()
+inner_join(x,y, by="")  
+pivot_wider()
+pivot_longer()
+tolower(cocaine$state)
+cocaine$state
+
+library(stringr)
+
+
 #shapes and geoms - telling the stories of delay with geoms - we can mess with and fix this...
 ggplot(flights, aes(time_hour, distance, colour=carrier))+geom_jitter()+facet_grid(~origin)
 
@@ -44,7 +70,7 @@ ggplot(flights, aes(time_hour, hour, colour=mean(dep_delay)))+geom_bin2d(bins=10
 
 #aggregation
 carrier_flights<-flights%>%
-  group_by(yday(time_hour))%>%
+  group_by(yday(time_hour), origin)%>%
   count(carrier)
 
 colnames(carrier_flights)[1]<-"day"

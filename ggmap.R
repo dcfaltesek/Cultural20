@@ -1,7 +1,7 @@
 library(ggmap)
-png:readPNG(bob.png)
+
 #a sequence on portland
-port<-geocode("portland, oregon")
+port<-geocode("Portland, Oregon")
 portland<-get_map(port)
 PDX<-ggmap(portland)
 ggmap(portland)
@@ -51,9 +51,11 @@ df <- data.frame(street_address = noise$ADDRESS, stringsAsFactors = FALSE)
 locations<-df %>% mutate_geocode(street_address)
 write.csv(locations, "locations.csv", row.names = FALSE)
 
+robby<-select(locations, street_address, lon, lat)
+
 #inner_join that to the original
 colnames(noise)[4]<-"street_address"
-noise2 <- inner_join(noise, locations, by = "street_address")
+noise3 <- right_join(noise, robby)
 
 #take a quick look
 View(noise2)
@@ -78,4 +80,4 @@ corvallis2 +
     size = .5, bins = 30, alpha = 1/2,
     data = noise2
   )
-
+noise <- noise %>% mutate(street_address = paste0(street_address, ", Corvallis OR"))
