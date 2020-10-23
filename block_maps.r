@@ -27,11 +27,17 @@ ggplot(data = west_coast) +
 #go ahead and find your elections dataset
 #write a filter that gets you the current number of electoral votes per state
 #here is my favorite example, I wrote it during some wishful thinking once...
-elector2 <- inner_join(states, elector, by = "State")
+distinct(statecolors, colour)
+
+elector2 <- inner_join(states, statecolors, by = "region")
 
 
 #now, lets try to sub-in our new data
-ggplot(elector2) + 
-  geom_polygon(aes(x = long, y = lat, fill = X, group = group), color = "white") + 
+ggplot(elector2) +
+  geom_polygon(aes(x = long, y = lat, fill = colour), color = "white") + color
   coord_fixed(1.3)
 
+library(nycflights13)
+beef<-filter(flights, month==5, day==1)  
+  
+  
