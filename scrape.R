@@ -17,6 +17,8 @@ Russian_States<-Russia%>%
   html_node("#mw-content-text > div.mw-parser-output > table:nth-child(21)")%>%
   html_table() 
 
+#mw-content-text > div.mw-parser-output > table:nth-child(21)
+
 #I'm going to put you in breakout rooms to do this again with another wikipedia page...
 
 story<-read_html("https://www.nytimes.com/2020/10/22/us/politics/trump-campaign-money.html")
@@ -59,12 +61,12 @@ billboard<-read_html("https://www.billboard.com/charts/hot-100/2000-10-28")
 billboard%>%
   html_node("body")%>%
   #for when it is fancy
-  xml_find_all(""//span[contains(@class, 'chart-element__information__artist')]"")%>%
+  xml_find_all("//span[contains(@class, 'chart-element__information__song text')]")%>%
   html_text()
 
 billboard%>%
   html_node("body")%>%
-  xml_find_all("//span[contains(@class, 'chart-element__information__artist')]")%>%
+  xml_find_all("//span[contains(@class, 'chart-element__image flex')]")%>%
   html_text()
 
 billboard%>%
