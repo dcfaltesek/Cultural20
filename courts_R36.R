@@ -46,11 +46,10 @@ ggplot(J, aes(x, y, xend = xend, yend = yend)) +
 smasher<-as.matrix.network.adjacency(C)
 #calculate modularities - detect groups and clumps and stuff
 #a fav that comes up null
-library(NetworkToolbox)
 
 #a table of centralities - you know the first three
 close<-closeness(smasher)
-between<-betweenness(C)
+between<-betweenness(smasher)
 
 #bonacic power centrality - recursive formula - power from power of alters
 bonacic<-bonpow(C)
@@ -66,8 +65,6 @@ justice_centralities<-data.frame(close, between, prestige_eigen,
 #modularities
 #louvain- this is a poor implementation of Louvain, but it works with the libraries
 louvain_net<-modMax::greedy(smasher)
-loulou#leiden - again resolution is a key metric
-leiden_net<-leiden::leiden(smasher, resolution_parameter=3)
 #kcores - older method of modularity, falls back to degree centrality 
 kcores_net<-kcores(C)
 #a method that implements CNM that refines based on commmonly placed nodes
@@ -76,7 +73,7 @@ msgvm_net<-modMax::msgvm(smasher, initial=c("general"), parL=50)
 mome_net<-modMax::mome(smasher)
 
 #cleans up that dataframe
-modularities<-data.frame(louvain_net[3], leiden_net, kcores_net, msgvm_net[3], mome_net[3])
+modularities<-data.frame(louvain_net[3], kcores_net, msgvm_net[3], mome_net[3])
 colnames(modularities)[1]<-"Louvain"
 colnames(modularities)[4]<-"msgvm"
 colnames(modularities)[5]<-"mome"
