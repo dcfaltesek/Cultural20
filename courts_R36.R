@@ -18,11 +18,17 @@ post_war%>%
 #or you can use the dissensus version that excludes 9-0 opinions
 
 #create a basic network
-C<-network(post_war, directed = TRUE, matrix.type="edgelist")
+C<-network(marvel, directed = FALSE, matrix.type="edgelist")
+
+Z<-equiv.clust(C)
+Z<-NetworkToolbox::clustcoeff(smasher)
 
 #add edge type
 #special is concurrences and special concurrences - other stuff omitted
-set.edge.attribute(C, attrname="TYPE", post_war$TYPE)
+set.edge.attribute(C, attrname="TYPE", marvel$HOW)
+
+get.vertex.attribute(C, "vertex.names")
+
 
 #adds the year of the decision
 set.edge.attribute(C, attrname="TERM", post_war$term)
@@ -34,11 +40,11 @@ L<-ggnetwork(C, layout = "eigen")
 J<-filter(L, vertex.names>70)
 
 #make a quick plot of that
-ggplot(J, aes(x, y, xend = xend, yend = yend)) +
+ggplot(L, aes(x, y, xend = xend, yend = yend)) +
   #just make the lines orange
-  geom_edges(aes(color = TYPE))+
+  geom_edges(aes(color = "orange"))+
   #set the other aesthetics as static values
-  geom_nodetext(aes(label = vertex.names))+
+  geom_nodetext(aes(label = vertex.names, colour=as.factor(louvain)))+
   theme_blank()
 
 
@@ -57,10 +63,15 @@ bonacic<-bonpow(C)
 #prestige measures - both rescaled
 prestige_degree<-prestige(smasher, cmode="indegree", rescale=TRUE)
 prestige_eigen<-prestige(smasher, cmode="eigenvector", rescale=TRUE)
+names<-get.vertex.attribute(C, "vertex.names")
+
+
+
+
 
 #centrality table
-justice_centralities<-data.frame(close, between, prestige_eigen,
-                                 prestige_degree, bonacic)
+Z<-data.frame(names, close, between, prestige_eigen,
+                                 prestige_degree)
 
 #modularities
 #louvain- this is a poor implementation of Louvain, but it works with the libraries
