@@ -7,7 +7,7 @@ library(ggrepel)
 
 
 #subset the text 
-new_taylor<-music%>%
+new_taylor<-taylor3%>%
   filter(artist_name== "Taylor Swift")%>%
   filter(album_name == "folklore" | album_name=="1989")
 
@@ -42,7 +42,7 @@ taylor_sentiments<-inner_join(taylor_lines, scores_per_line, by="reference")
 albums<-taylor_sentiments%>%
   group_by(track_name)%>%
   #adds up the scores for each line, adds the track number, and then album name
-  summarize(song_value=sum(line_value), song_sd=sd(line_value),track=mean(track_n), album=album_name)%>%
+  summarize(song_value=sum(line_value), song_sd=sd(line_value),track=mean(track_number), album=album_name)%>%
   ungroup()
 
 #this is an example of varience
@@ -78,7 +78,7 @@ taylor_sentiments%>%
 #take a look inside the song
 taylor_sentiments%>%
   filter(track_name=="Bad Blood")%>%
-  ggplot(aes(line, line_value, colour=line_var))+geom_jitter()
+  ggplot(aes(reference, line_value, colour=line_var))+geom_jitter()
 
 
 
