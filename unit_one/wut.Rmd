@@ -1,0 +1,84 @@
+---
+title: "How about those TV shows?"
+output: flexdashboard::flex_dashboard
+---
+
+```{r setup, include = FALSE}
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(readr)
+knitr::opts_chunk$set(fig.width = 6, fig.asp = 1/2)
+
+
+TV <- read_csv("unit_one/TV.csv")
+tvratings <- read_csv("unit_one/tvratings.csv")
+
+
+```
+
+## Column 1
+
+### Ratings by year and by Program Type
+
+```{r}
+ggplot(TV, aes(Year, Rating, colour=Type)) + geom_jitter()
+```
+
+### NBC at the top
+
+```{r}
+TV%>%
+  filter(Network=="NBC")%>%
+  ggplot(aes(Rank)) + geom_bar()
+```
+
+### TEXT
+
+This is the start of a project that would finally give Brandon T. the credit he deserves. I was a bit verklempt when 
+
+
+### Colour
+
+```{r}
+
+TV%>%
+  filter(Rank<6)%>%
+  ggplot(aes(Year, Rating, colour=Network)) + geom_jitter()
+```
+
+## Column 2
+
+### A table and picture
+
+```{r}
+TV %>% 
+  arrange(desc(Rating)) %>% 
+  head(100) %>% 
+  DT::datatable()
+```
+```{r}
+
+```
+
+## Column 3
+
+### A BOAT
+```{r}
+
+```
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
