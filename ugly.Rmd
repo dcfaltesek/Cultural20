@@ -1,0 +1,129 @@
+---
+title: "Untitled"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+![Zunrt](level.jpeg)
+
+```{r}
+library(datasets)
+data(faithful)
+
+library(highcharter)
+library(dplyr)
+library(viridisLite)
+library(forecast)
+library(treemap)
+library(flexdashboard)
+
+thm <- 
+  hc_theme(
+    colors = c("#1a6ecc", "#434348", "#90ed7d"),
+    chart = list(
+      backgroundColor = "transparent",
+      style = list(fontFamily = "Source Sans Pro")
+    ),
+    xAxis = list(
+      gridLineWidth = 1
+    )
+  )
+library(readr)
+TV <- read_csv("unit_one/TV.csv")
+
+library(dplyr)
+data(gapminder, package = "gapminder")
+
+TV2<-TV%>%
+  filter(Year==1997)
+
+dout <- data_to_hierarchical(TV2, c(Network,Type), Rating)
+
+hchart(dout, type = "sunburst")
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+![splurmp](semi.png)
+
+```{r}
+library(readr)
+TV <- read_csv("unit_one/TV.csv")
+
+nurm<-TV %>% 
+  filter(Network=="NBC")%>%
+  filter(Rank<6)%>%
+  select(Rating)
+flort<-ts(nurm, start=1990)
+
+flort%>%
+  forecast(level = 90) %>% 
+  hchart%>% 
+  hc_add_theme(thm)
+```
+
+### Chart C
+
+```{r}
+library(datasets)
+data(faithful)
+
+library(highcharter)
+library(dplyr)
+library(viridisLite)
+library(forecast)
+library(treemap)
+library(flexdashboard)
+
+thm <- 
+  hc_theme(
+    colors = c("#1a6ecc", "#434348", "#90ed7d"),
+    chart = list(
+      backgroundColor = "transparent",
+      style = list(fontFamily = "Source Sans Pro")
+    ),
+    xAxis = list(
+      gridLineWidth = 1
+    )
+  )
+```
+
+
+```{r}
+
+
+
+dat<-data_to_boxplot(
+  TV,
+  Rating,
+  group_var = Network,
+  add_outliers = TRUE
+)
+
+highchart() %>%
+  hc_xAxis(type = "category") %>%
+  hc_add_series_list(dat)
+```
+
+
+```{r}
+
+  
+```
+
+
+
+
